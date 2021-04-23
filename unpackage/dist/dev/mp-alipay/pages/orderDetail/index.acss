@@ -1,0 +1,13 @@
+
+.f-color{
+	color: #757575;
+}
+.t-color {
+	color:  #FF453A;
+}
+.title{
+	width: 70px;
+	text-align: right;
+}
+
+

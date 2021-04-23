@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['test',['$event']]]]]}}" onTap="__e">adsdasdadas</view>

@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "物料清单",
+  "usingComponents": {
+    "cus-table": "/component/cusTable"
+  }
+}

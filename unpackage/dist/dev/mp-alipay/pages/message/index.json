@@ -1,0 +1,9 @@
+{
+  "backgroundColor": "#F5F5F5",
+  "transparentTitle": "always",
+  "titlePenetrate": "YES",
+  "allowsBounceVertical": "NO",
+  "usingComponents": {
+    "head-nav": "/component/headNav"
+  }
+}

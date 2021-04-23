@@ -1,0 +1,8 @@
+{
+  "backgroundColor": "#fff",
+  "transparentTitle": "always",
+  "titlePenetrate": "YES",
+  "allowsBounceVertical": "NO",
+  "gestureBack": "NO",
+  "usingComponents": {}
+}

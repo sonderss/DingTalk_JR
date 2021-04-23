@@ -1,0 +1,1 @@
+<view class="billMaterials m-lr-10" style="overflow:hidden;"><cus-table vue-id="4c10297d-1" thList="{{thList}}" tdList="{{tdList}}" tdData="{{tdData}}" useCusTdList="{{false}}" onVueInit="__l"></cus-table></view>

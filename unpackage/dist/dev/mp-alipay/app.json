@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/login/index",
+    "pages/index/index",
+    "pages/message/index",
+    "pages/billMaterials/index",
+    "pages/orderTracking/index",
+    "pages/orderDetail/index",
+    "pages/mine/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "defaultTitle": "",
+    "titleBarColor": "#0084FF",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "textColor": "#7A7E83",
+    "selectedColor": "#007AFF",
+    "backgroundColor": "#F8F8F8",
+    "items": [
+      {
+        "pagePath": "pages/index/index",
+        "name": "首页",
+        "icon": "static/component.png",
+        "activeIcon": "static/componentHL.png"
+      },
+      {
+        "pagePath": "pages/message/index",
+        "name": "消息",
+        "icon": "static/template.png",
+        "activeIcon": "static/templateHL.png"
+      },
+      {
+        "pagePath": "pages/mine/index",
+        "name": "我的",
+        "icon": "static/extui.png",
+        "activeIcon": "static/extuiHL.png"
+      }
+    ]
+  },
+  "usingComponents": {
+    "head-nav": "/component/headNav"
+  }
+}

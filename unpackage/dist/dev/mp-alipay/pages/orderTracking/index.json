@@ -1,0 +1,8 @@
+{
+  "defaultTitle": "",
+  "showTitleLoading": "YES",
+  "enableScrollBar": "NO",
+  "usingComponents": {
+    "uni-steps": "/component/uniSteps"
+  }
+}
